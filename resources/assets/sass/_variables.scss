@@ -1,0 +1,18 @@
+$mobile: "max-width: 767px";
+$tablet: "min-width: 768px) and (max-width: 1024px";
+$desktop: "min-width: 1025px";
+
+
+$link_color: #00ccff;
+$link_visited_color: darken($link_color, 15%);
+$link_hover_color: $link_visited_color;
+$link_active_color: $link_visited_color;
+
+$body_color: #f2f2f2;
+$body_text_color: #222;
+
+$header_color: #222;
+$header_text_color: #fff;
+
+$footer_color: #222;
+$footer_text_color: #fff;
